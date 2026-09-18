@@ -25,27 +25,7 @@ The project follows an end-to-end analytics workflow:
 - Build an interactive executive dashboard
 - Convert analysis into actionable business insights
 
----
 
-## 📊 Dashboard Preview
-
-### Executive Business Overview
-
-![Executive Dashboard](screenshots/Dashboard_Page2.png)
-
-### Customer & Product Analysis
-
-![Customer & Product Dashboard](screenshots/Dashboard_Page1.png)
-
----
-
-## 🔎 Key Business Insights
-
-A detailed business-insights report is maintained separately so that the dashboard findings can be read as a concise business case study.
-
-👉 **[Read the detailed Business Insights](docs/BUSINESS_INSIGHTS.md)**
-
----
 
 ## 📈 Dashboard Highlights
 
